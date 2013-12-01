@@ -15,3 +15,29 @@ I am currently pursuing my Bachelors of Science in Computer Information Systems 
 * Extensice knowledge of penetration testing and vulnerability assessments. 
 * Extensive knowledge of application and mobile security.
 * Areas of Knowledge/Competency Include: Network and host-based Information Security, Incident Response, Systems and Network Administration, TCP/IP Protocol Suite, Windows 9x - NTx, Linux, RedHat ES, SuSe Linux, Debian, Gentoo, Novell Linux, OpenBSD, Solaris, Novell, Object-Oriented and Structured Programming concepts, Intrusion Detection, Firewalls, Honeypots, Vulnerability Assessment, SIM, Open- source Security tools, bash, python scripting.
+
+## Employment history
+
+FishNet Security: Systems Engineer | April 2013 - Present
+
+* Servered the Tennessee regien
+
+LBMC: Engagement Manager/Manager of Security Compliance | January 2012 - April 2013
+
+* Developed mobile security practice
+* Developed SIEM service line
+* Delivered security assessments based on HIPAA, PCI and ISO
+
+HP: Engagement Manger/Senior Security Engineer | August 2010 – January 2012
+
+* Developed the mobile testing methodology
+* Developed the testing methodology for Testing as a Service (TaaS)
+* Designed the validation process for Testing as a Service (TaaS)
+* Lead a six month engagement for a fortune 10 company that included testing 2000 applications * Manager of testing for large financial institute
+* Delivered a talk on PCI compliance
+
+MainNerve: Manger of central region operations | November 2009 – August 2010
+
+* Lead team to design and implement client incident response program 
+* Performed gap analysis of current state to HIPA and NIST
+* Product manager for Netforce Analyzer the companies SEM tool
