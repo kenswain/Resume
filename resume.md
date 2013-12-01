@@ -35,6 +35,8 @@ HP: Engagement Manger/Senior Security Engineer | August 2010 – January 2012
 * Designed the validation process for Testing as a Service (TaaS)
 * Lead a six month engagement for a fortune 10 company that included testing 2000 applications 
 * Manager of testing for large financial institute
+
+* Lead a six month engagement for a fortune 10 company that included testing 2000 applications * Manager of testing for large financial institute
 * Delivered a talk on PCI compliance
 
 MainNerve: Manger of central region operations | November 2009 – August 2010
@@ -103,3 +105,6 @@ Solutions Technology, Columbus GA: Microsoft Certified Trainer | October 1998 �
 
 * Trained students in all courses pursuant to achieving the Microsoft MCSE credential. This included the more advanced “Designing Microsoft Security Infrastructure” and “Designing Microsoft Network Infrastructure” material. Also consistently achieved the highest success rate of all instructors in the company.
 * Consulted with several companies on security and system design including Netsystems, Columbus Chamber of Commerce and several law offices.
+
+
+
