@@ -2,6 +2,7 @@
 
 I am currently pursuing my Bachelors of Science in Computer Information Systems and have over 16 years cumulative experience in information security and network/systems administration. I adapt quickly to challenges and enjoy the pursuit of excellence both in the workplace and in my free time. I work extremely well with others and have an overwhelming desire to exceed expectations when approaching all types of projects. I strive to understand how a given technology works, which allows me to trouble shoot more effectively and find the true cause of the problem.
 
+
 ## Qualifications Summary
 
 * Have over 9 years consulting experience in a wide range of environments ranging from Windows 9x-NTx, Windows 2000 and 2003, Unix, Linux, and Novell.
